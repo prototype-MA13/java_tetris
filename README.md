@@ -6,6 +6,8 @@ Los tetrominós caen desde la parte superior de la pantalla y debes rotar y
 moverlos estratégicamente para encajarlos en el tablero. Una vez que hayas 
 llenado una línea completa, esta se eliminará, averigua cuantas puedes lograr!!.
 
+![Imagen del juego](https://github.com/prototype-MA13/java_tetris/blob/main/capturas/Imagen1.png)
+
 ## **Requisitos del Sistema**
 Java 8 o superior.
 
