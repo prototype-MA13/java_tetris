@@ -21,6 +21,8 @@ Registro de lineas completas.
 
 ## **Controles**
 1. Flechas izquierda y derecha: Mueve los bloques horizontalmente.
-2. Flecha hacia abajo: Acelerar la caída de los tetrominós.
-3. Flecha hacia arriba o tecla de espacio: Rotar los tetrominós.
-4. Tecla P: Pausar el juego.
+2. Flecha hacia abajo: Mueve el bloque a la derecha
+3. Flecha hacia arriba: Mueve el bloque hacia la izquierda
+4. Tecla D: Mueve el bloque ligeramente hacia abajo.
+5. Tecla de espacio: Deja caer completamente el bloque.
+6. Tecla P: Pausar el juego.
